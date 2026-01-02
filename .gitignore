@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+employee.db
+
+# Node
+node_modules/
+
+# ML model (optional: uncomment if you don’t want it in GitHub)
+# burnout_model.joblib
+
+# OS
+.DS_Store
+Thumbs.db
